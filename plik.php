@@ -5,11 +5,14 @@
     <title>STRONA</title>
   </head>
   <body>
-    <banner>
+    <banner>JAKUB 4C
     </banner>
-    <content>
+    <content>Zespol szkol komunikacji
     </content>
     <menu>
+      <a href="user.php">user</a>
+      <a href="admin.php">admin</a>
+      <a href="web.php">web</a>
     </menu>
     <footer>JAKUB JAKUB 4C
     </footer>
